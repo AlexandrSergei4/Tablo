@@ -1,2 +1,2 @@
 # Tablo
-Repo for acquaintance epoxy 
+Repo for acquaintance with epoxy 
